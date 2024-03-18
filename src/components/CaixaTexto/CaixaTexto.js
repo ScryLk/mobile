@@ -1,36 +1,38 @@
 import React from "react";
-
 import { Text, View } from "react-native";
 import Estilo from "./Estilo";
+import { Image } from "react-native-web";
+import ImageTimes from "../ImageTimes/ImageTimes";
 
 function CaixaTexto(props) {
-    const { time } = props;
+    const { time, conquista } = props;
     let estilo = {
-
-        Grêmio: {
+        Trindade: {
             fontSize: 30,
-            color: '#0716e1',
-            backgroundColor: '#07ade1',
+            color: 'black',
+            backgroundColor: '#FFFFFF', // Corrigido para '#000000'
+            borderWidth: 2,
             padding: 16,
             borderRadius: 16,
             borderStyle: 'dotted',
-            borderColor: '#fff',
+            borderColor: 'black',
         },
-        Internacional: {
+        Chapecoense: {
             fontSize: 30,
-            color: '#f30f1a',
-            backgroundColor: '#e6676d',
+            color: 'black',
+            backgroundColor: '#FFFFF', // Corrigido para '#000000'
+            borderWidth: 2,
             padding: 16,
             borderRadius: 16,
             borderStyle: 'dotted',
-            borderColor: '#fff',
+            borderColor: 'black',
         }
-
     }
-    return <View>
-        <Text style={estilo[time]}>{props.time}! {props.façanha}</Text>
-    </View>
+    return (
+        <View>
+            <Text style={estilo[time]}>{props.time}!{'\n'}{props.conquista}</Text>
+        </View>
+    );
 }
 
 export default CaixaTexto;
-
