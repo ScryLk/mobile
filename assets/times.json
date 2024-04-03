@@ -1,0 +1,331 @@
+[
+  {
+    "nome": "Flamengo",
+    "facanha": "Campeão Brasileiro 2020",
+    "simbolo": "https://logodetimes.com/times/flamengo/logo-flamengo-256.png",
+    "elenco": [
+      {
+        "posicao": "Goleiro",
+        "jogadores": ["João", "Mateus"]
+      },
+      {
+        "posicao": "Zagueiro",
+        "jogadores": ["Pedro", "Lucas"]
+      },
+      {
+        "posicao": "Lateral",
+        "jogadores": ["Marcelo", "Rafael"]
+      },
+      {
+        "posicao": "Volante",
+        "jogadores": ["Gabriel", "Rodrigo"]
+      },
+      {
+        "posicao": "Meio-Campo",
+        "jogadores": ["Rafael", "Gabriel"]
+      },
+      {
+        "posicao": "Atacante",
+        "jogadores": ["Ricardo", "André"]
+      }
+    ],
+    "competicoes": [
+      {
+        "nome": "Campeonato Brasileiro",
+        "tipo": "Nacional",
+        "fase atual": "Fase de Grupos",
+        "inicio": "01/01/2023",
+        "fim": "31/12/2023"
+      },
+      {
+        "nome": "Copa Libertadores",
+        "tipo": "Internacional",
+        "fase atual": "Fase de Grupos",
+        "inicio": "01/02/2023",
+        "fim": "30/11/2023"
+      }
+    ]
+  },
+  {
+    "nome": "Palmeiras",
+    "facanha": "Campeão Brasileiro 2020",
+    "simbolo": "https://logodetimes.com/times/flamengo/logo-flamengo-256.png",
+    "elenco": [
+      {
+        "posicao": "Goleiro",
+        "jogadores": ["João", "Mateus"]
+      },
+      {
+        "posicao": "Zagueiro",
+        "jogadores": ["Pedro", "Lucas"]
+      },
+      {
+        "posicao": "Lateral",
+        "jogadores": ["Marcelo", "Rafael"]
+      },
+      {
+        "posicao": "Volante",
+        "jogadores": ["Gabriel", "Rodrigo"]
+      },
+      {
+        "posicao": "Meio-Campo",
+        "jogadores": ["Rafael", "Gabriel"]
+      },
+      {
+        "posicao": "Atacante",
+        "jogadores": ["Ricardo", "André"]
+      }
+    ],
+    "competicoes": [
+      {
+        "nome": "Campeonato Brasileiro",
+        "tipo": "Nacional",
+        "fase atual": "Fase de Grupos",
+        "inicio": "01/01/2023",
+        "fim": "31/12/2023"
+      },
+      {
+        "nome": "Copa Libertadores",
+        "tipo": "Internacional",
+        "fase atual": "Fase de Grupos",
+        "inicio": "01/02/2023",
+        "fim": "30/11/2023"
+      }
+    ]
+  },
+  {
+    "nome": "Santos",
+    "facanha": "Campeão Brasileiro 2020",
+    "simbolo": "https://logodetimes.com/times/flamengo/logo-flamengo-256.png",
+    "elenco": [
+      {
+        "posicao": "Goleiro",
+        "jogadores": ["João", "Mateus"]
+      },
+      {
+        "posicao": "Zagueiro",
+        "jogadores": ["Pedro", "Lucas"]
+      },
+      {
+        "posicao": "Lateral",
+        "jogadores": ["Marcelo", "Rafael"]
+      },
+      {
+        "posicao": "Volante",
+        "jogadores": ["Gabriel", "Rodrigo"]
+      },
+      {
+        "posicao": "Meio-Campo",
+        "jogadores": ["Rafael", "Gabriel"]
+      },
+      {
+        "posicao": "Atacante",
+        "jogadores": ["Ricardo", "André"]
+      }
+    ],
+    "competicoes": [
+      {
+        "nome": "Campeonato Brasileiro",
+        "tipo": "Nacional",
+        "fase atual": "Fase de Grupos",
+        "inicio": "01/01/2023",
+        "fim": "31/12/2023"
+      },
+      {
+        "nome": "Copa Libertadores",
+        "tipo": "Internacional",
+        "fase atual": "Fase de Grupos",
+        "inicio": "01/02/2023",
+        "fim": "30/11/2023"
+      }
+    ]
+  },
+  {
+    "nome": "Corinthians",
+    "facanha": "Campeão Brasileiro 2020",
+    "simbolo": "https://logodetimes.com/times/flamengo/logo-flamengo-256.png",
+    "elenco": [
+      {
+        "posicao": "Goleiro",
+        "jogadores": ["João", "Mateus"]
+      },
+      {
+        "posicao": "Zagueiro",
+        "jogadores": ["Pedro", "Lucas"]
+      },
+      {
+        "posicao": "Lateral",
+        "jogadores": ["Marcelo", "Rafael"]
+      },
+      {
+        "posicao": "Volante",
+        "jogadores": ["Gabriel", "Rodrigo"]
+      },
+      {
+        "posicao": "Meio-Campo",
+        "jogadores": ["Rafael", "Gabriel"]
+      },
+      {
+        "posicao": "Atacante",
+        "jogadores": ["Ricardo", "André"]
+      }
+    ],
+    "competicoes": [
+      {
+        "nome": "Campeonato Brasileiro",
+        "tipo": "Nacional",
+        "fase atual": "Fase de Grupos",
+        "inicio": "01/01/2023",
+        "fim": "31/12/2023"
+      },
+      {
+        "nome": "Copa Libertadores",
+        "tipo": "Internacional",
+        "fase atual": "Fase de Grupos",
+        "inicio": "01/02/2023",
+        "fim": "30/11/2023"
+      }
+    ]
+  },
+  {
+    "nome": "São Paulo",
+    "facanha": "Campeão Brasileiro 2020",
+    "simbolo": "https://logodetimes.com/times/flamengo/logo-flamengo-256.png",
+    "elenco": [
+      {
+        "posicao": "Goleiro",
+        "jogadores": ["João", "Mateus"]
+      },
+      {
+        "posicao": "Zagueiro",
+        "jogadores": ["Pedro", "Lucas"]
+      },
+      {
+        "posicao": "Lateral",
+        "jogadores": ["Marcelo", "Rafael"]
+      },
+      {
+        "posicao": "Volante",
+        "jogadores": ["Gabriel", "Rodrigo"]
+      },
+      {
+        "posicao": "Meio-Campo",
+        "jogadores": ["Rafael", "Gabriel"]
+      },
+      {
+        "posicao": "Atacante",
+        "jogadores": ["Ricardo", "André"]
+      }
+    ],
+    "competicoes": [
+      {
+        "nome": "Campeonato Brasileiro",
+        "tipo": "Nacional",
+        "fase atual": "Fase de Grupos",
+        "inicio": "01/01/2023",
+        "fim": "31/12/2023"
+      },
+      {
+        "nome": "Copa Libertadores",
+        "tipo": "Internacional",
+        "fase atual": "Fase de Grupos",
+        "inicio": "01/02/2023",
+        "fim": "30/11/2023"
+      }
+    ]
+  },
+  {
+    "nome": "Internacional",
+    "facanha": "Campeão Brasileiro 2020",
+    "simbolo": "https://logodetimes.com/times/flamengo/logo-flamengo-256.png",
+    "elenco": [
+      {
+        "posicao": "Goleiro",
+        "jogadores": ["João", "Mateus"]
+      },
+      {
+        "posicao": "Zagueiro",
+        "jogadores": ["Pedro", "Lucas"]
+      },
+      {
+        "posicao": "Lateral",
+        "jogadores": ["Marcelo", "Rafael"]
+      },
+      {
+        "posicao": "Volante",
+        "jogadores": ["Gabriel", "Rodrigo"]
+      },
+      {
+        "posicao": "Meio-Campo",
+        "jogadores": ["Rafael", "Gabriel"]
+      },
+      {
+        "posicao": "Atacante",
+        "jogadores": ["Ricardo", "André"]
+      }
+    ],
+    "competicoes": [
+      {
+        "nome": "Campeonato Brasileiro",
+        "tipo": "Nacional",
+        "fase atual": "Fase de Grupos",
+        "inicio": "01/01/2023",
+        "fim": "31/12/2023"
+      },
+      {
+        "nome": "Copa Libertadores",
+        "tipo": "Internacional",
+        "fase atual": "Fase de Grupos",
+        "inicio": "01/02/2023",
+        "fim": "30/11/2023"
+      }
+    ]
+  },
+  {
+    "nome": "Fluminense",
+    "facanha": "Campeão Brasileiro 2020",
+    "simbolo": "https://logodetimes.com/times/flamengo/logo-flamengo-256.png",
+    "elenco": [
+      {
+        "posicao": "Goleiro",
+        "jogadores": ["João", "Mateus"]
+      },
+      {
+        "posicao": "Zagueiro",
+        "jogadores": ["Pedro", "Lucas"]
+      },
+      {
+        "posicao": "Lateral",
+        "jogadores": ["Marcelo", "Rafael"]
+      },
+      {
+        "posicao": "Volante",
+        "jogadores": ["Gabriel", "Rodrigo"]
+      },
+      {
+        "posicao": "Meio-Campo",
+        "jogadores": ["Rafael", "Gabriel"]
+      },
+      {
+        "posicao": "Atacante",
+        "jogadores": ["Ricardo", "André"]
+      }
+    ],
+    "competicoes": [
+      {
+        "nome": "Campeonato Brasileiro",
+        "tipo": "Nacional",
+        "fase atual": "Fase de Grupos",
+        "inicio": "01/01/2023",
+        "fim": "31/12/2023"
+      },
+      {
+        "nome": "Copa Libertadores",
+        "tipo": "Internacional",
+        "fase atual": "Fase de Grupos",
+        "inicio": "01/02/2023",
+        "fim": "30/11/2023"
+      }
+    ]
+  }
+]
